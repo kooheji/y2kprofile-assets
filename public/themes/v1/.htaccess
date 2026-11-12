@@ -1,0 +1,9 @@
+# Shared theme assets can be used by profiles hosted on other websites.
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+  Header set Cache-Control "public, max-age=86400"
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType application/x-shockwave-flash .swf
+</IfModule>

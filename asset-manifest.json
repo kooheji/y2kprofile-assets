@@ -1,0 +1,487 @@
+{
+  "project": "Y2K Profile shared assets",
+  "version": "v1.0.0",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/kooheji/y2kprofile-assets@v1.0.0/public/themes/v1",
+  "files": [
+    {
+      "path": "public/themes/v1/.htaccess",
+      "bytes": 285,
+      "sha256": "9e35094e3081d412a73d4b0e03c142e39c1ab76715d70a20032a8654c8637346"
+    },
+    {
+      "path": "public/themes/v1/THIRD_PARTY_NOTICES.txt",
+      "bytes": 6035,
+      "sha256": "a6fbaa7dde4860318e2075d46f98499d102ccecf42cec7fee35a2c5e6771dc83"
+    },
+    {
+      "path": "public/themes/v1/demo/README.txt",
+      "bytes": 893,
+      "sha256": "3001e633953a88ac1ab3145c26e003bfc869cefbcb3e727555792714d0335375"
+    },
+    {
+      "path": "public/themes/v1/demo/ash.webp",
+      "bytes": 11032,
+      "sha256": "5d7f01be04343c471f59185f8a0e80642c46066feabe641b5a3078e7d4cdca8b"
+    },
+    {
+      "path": "public/themes/v1/demo/ben.webp",
+      "bytes": 7918,
+      "sha256": "d8f1d16f7f37f2f17e49339bec63feb302b771d79e2a400d883c3df919397088"
+    },
+    {
+      "path": "public/themes/v1/demo/gig-night.webp",
+      "bytes": 74270,
+      "sha256": "823bdb982c95d06b569b2c2ee28aebc1119d850618efac6cd57e70c16f23c7bf"
+    },
+    {
+      "path": "public/themes/v1/demo/hana.webp",
+      "bytes": 11052,
+      "sha256": "14f57672ebc82b71c2cecff3b871b2dae4958ae4736748c554daa9b54ea5876b"
+    },
+    {
+      "path": "public/themes/v1/demo/headphones.webp",
+      "bytes": 108566,
+      "sha256": "de3d38b70c7e8c9e3afd77cc15d995a1217e1742fb83c362dc21a2448bf9e29c"
+    },
+    {
+      "path": "public/themes/v1/demo/jade-profile.webp",
+      "bytes": 34434,
+      "sha256": "26fe4e4ce1be858de297a22798f78ef73713ae420f0405b12886bdd63b8102e1"
+    },
+    {
+      "path": "public/themes/v1/demo/jamie.webp",
+      "bytes": 7648,
+      "sha256": "7c32952005cab862fa702cdffe71f73f3aed9591831f530714c0644c40edbd29"
+    },
+    {
+      "path": "public/themes/v1/demo/lex.webp",
+      "bytes": 7420,
+      "sha256": "7062bbd48e7df4baeedbf97d854b0284051adbba31e6b67e8a778b6fe3d74fe4"
+    },
+    {
+      "path": "public/themes/v1/demo/mia.webp",
+      "bytes": 13108,
+      "sha256": "703e5293c46c0d4541a79b829158ef734c51098ff1e4a420d69a5821434e7fa8"
+    },
+    {
+      "path": "public/themes/v1/demo/mirror.webp",
+      "bytes": 50226,
+      "sha256": "7ac7018688cf2c3e68db346bf47a1aa4337f46afeaf86d4554f68952a5bd9f22"
+    },
+    {
+      "path": "public/themes/v1/demo/mix-cds.webp",
+      "bytes": 96750,
+      "sha256": "9e9a9a6fe74ec3047bc0d963e6a99ff038c2c6b4a00f9c8b77cf0858718b8e5d"
+    },
+    {
+      "path": "public/themes/v1/demo/roxy.webp",
+      "bytes": 7626,
+      "sha256": "f80355fd3ae566d8956ccb75466047b8be62b95ede0cfd7ac13f5b043817c0df"
+    },
+    {
+      "path": "public/themes/v1/demo/train-home.webp",
+      "bytes": 64346,
+      "sha256": "d9df2de91e1e0fdd8895abfcf876608a1c37ba791bb89b3433866e78a5b21dd0"
+    },
+    {
+      "path": "public/themes/v1/demo/weekend.webp",
+      "bytes": 93752,
+      "sha256": "5955654e5b169da1e0628425e883880b490b3b2ed1ee97c05a010f05274bbb83"
+    },
+    {
+      "path": "public/themes/v1/demo/zoe.webp",
+      "bytes": 9350,
+      "sha256": "28f53e58a025743fe23ad9f9d662ec70db53ac7c038b4971ed440b206dfee58c"
+    },
+    {
+      "path": "public/themes/v1/friendster/logo.svg",
+      "bytes": 13319,
+      "sha256": "f166875c04fed8f3fe347cf8cffa224c84ccdf92d20f7bf37fa479be85322014"
+    },
+    {
+      "path": "public/themes/v1/hi5/20x20_addfriend.gif",
+      "bytes": 1129,
+      "sha256": "fd6d0088ff5de96b2f4d53dea69418eb0676f7e0719c938e29009d17a17f03f1"
+    },
+    {
+      "path": "public/themes/v1/hi5/20x20_comment.gif",
+      "bytes": 1137,
+      "sha256": "5318f70415010ec0776f83cb9f6a804bb5198a379409095bc0b9d0f09660baeb"
+    },
+    {
+      "path": "public/themes/v1/hi5/20x20_favorite.gif",
+      "bytes": 695,
+      "sha256": "32e4f276ab8fc6221913cb9f38f159452ab00f269d3f1a9262906ba3b4961ac3"
+    },
+    {
+      "path": "public/themes/v1/hi5/20x20_five.gif",
+      "bytes": 672,
+      "sha256": "563e749d69aa5374f183f04f85fb44eb041af47fb0762980ca1e124e6026d8c7"
+    },
+    {
+      "path": "public/themes/v1/hi5/20x20_gift.gif",
+      "bytes": 1136,
+      "sha256": "1b5b8896519ec342202bdc22763904aa38bf00e7613452587a45ae60797de2a8"
+    },
+    {
+      "path": "public/themes/v1/hi5/20x20_message.gif",
+      "bytes": 709,
+      "sha256": "c38fdfb3aa39c28ca2c4670df9daeb668a19250c5bb3428adc059531a8b92bfb"
+    },
+    {
+      "path": "public/themes/v1/hi5/five1.gif",
+      "bytes": 729,
+      "sha256": "0d3dda24b8d701ce68a759d873a39128791633cd55095551ede87315891ec29e"
+    },
+    {
+      "path": "public/themes/v1/hi5/five10.gif",
+      "bytes": 820,
+      "sha256": "fb685d4f0e9511f3c35280dbea01137893f53758742cfd49fc0ec27a11c3f58a"
+    },
+    {
+      "path": "public/themes/v1/hi5/five11.gif",
+      "bytes": 576,
+      "sha256": "a7e963db06f92a79e8e09f4f51e8ca5898d147598070b6064e26732f0e7a90fe"
+    },
+    {
+      "path": "public/themes/v1/hi5/five12.gif",
+      "bytes": 770,
+      "sha256": "c12cb5baa96df39a584234a6990ad1b0b956ef3c91cec72c7f2b0b57d7834a61"
+    },
+    {
+      "path": "public/themes/v1/hi5/five13.gif",
+      "bytes": 788,
+      "sha256": "e07e725c665db24222736b27c278e173ed658a2ff1de674abf8d27a4ea51daa2"
+    },
+    {
+      "path": "public/themes/v1/hi5/five14.gif",
+      "bytes": 728,
+      "sha256": "b90d2478b2036be667272090b3ff00bcddec298257ab1502de6134f75ab23796"
+    },
+    {
+      "path": "public/themes/v1/hi5/five15.gif",
+      "bytes": 700,
+      "sha256": "11b6050743060a614eadcbee25d70aecc9d6884aa46e101794feabe5a68734fa"
+    },
+    {
+      "path": "public/themes/v1/hi5/five16.gif",
+      "bytes": 855,
+      "sha256": "d50ad40d2abaf43485db76f5d90c3780b893eef6ae9eace7dfa69a916ef3ee5a"
+    },
+    {
+      "path": "public/themes/v1/hi5/five17.gif",
+      "bytes": 572,
+      "sha256": "f9c116139dd109fed629d7cb569bb8edd443c71f95ca9d7c19713494abcb6b5c"
+    },
+    {
+      "path": "public/themes/v1/hi5/five18.gif",
+      "bytes": 649,
+      "sha256": "1049dbb4b543f988859990c0d4953edc3da89ef85127ee856dec07dbb2d96b8a"
+    },
+    {
+      "path": "public/themes/v1/hi5/five19.gif",
+      "bytes": 654,
+      "sha256": "53aa21fefadce0c5b9da70e31e51d1044ba4fb3a7fe87e45661fcf040d9f428f"
+    },
+    {
+      "path": "public/themes/v1/hi5/five2.gif",
+      "bytes": 685,
+      "sha256": "4b4c35adce94650cc0b93ab3c23ad8bf822ba0c6444594f75685ba6a48b38d3f"
+    },
+    {
+      "path": "public/themes/v1/hi5/five20.gif",
+      "bytes": 680,
+      "sha256": "bb7510a3fc0cf2f554b138e84a2e4e46ac07b590cf486829f1510f401ed0be7e"
+    },
+    {
+      "path": "public/themes/v1/hi5/five21.gif",
+      "bytes": 717,
+      "sha256": "e9036360ec6888d02bc7b10741e219fdad05a0ba2200839be34d6db591764212"
+    },
+    {
+      "path": "public/themes/v1/hi5/five22.gif",
+      "bytes": 925,
+      "sha256": "b8d2cc31d21c44998eb29506d5f2f5605a73fa2008adaf226e865e110050bbae"
+    },
+    {
+      "path": "public/themes/v1/hi5/five23.gif",
+      "bytes": 820,
+      "sha256": "a1a086e89eaecee82780637b5930ba623f466c31b286460f6eca83c89fdceedf"
+    },
+    {
+      "path": "public/themes/v1/hi5/five24.gif",
+      "bytes": 632,
+      "sha256": "ac57ad5be2a0c6a032f2e7f81d473be50d45bfc9bd91139e75f7bf0afe999076"
+    },
+    {
+      "path": "public/themes/v1/hi5/five25.gif",
+      "bytes": 645,
+      "sha256": "914bd55f3e320fcb7eb57fcb64b981807fd3e344ecb40969f847fc8594bd4f8f"
+    },
+    {
+      "path": "public/themes/v1/hi5/five26.gif",
+      "bytes": 648,
+      "sha256": "3ffba919558c8e08bf424c41cebfce1cdff127796b487aebf6d32f6a99532cf6"
+    },
+    {
+      "path": "public/themes/v1/hi5/five27.gif",
+      "bytes": 515,
+      "sha256": "956084d8696d6ee575c793bdeefcdcd561596c01b5bb03e83a6ea77c4d046922"
+    },
+    {
+      "path": "public/themes/v1/hi5/five28.gif",
+      "bytes": 735,
+      "sha256": "d2da882a695b57e77915ef141c0ee03985396334c0a02bdf2b97c0380c944526"
+    },
+    {
+      "path": "public/themes/v1/hi5/five29.gif",
+      "bytes": 649,
+      "sha256": "9274d2d2c124df4d357a2d9912abd442cdfb4d763dc355c30878d3a4bb6650e4"
+    },
+    {
+      "path": "public/themes/v1/hi5/five3.gif",
+      "bytes": 740,
+      "sha256": "22c04364f9b39cffc9c134241661441b6ac7bdae17aef92b9495b0186f7384e2"
+    },
+    {
+      "path": "public/themes/v1/hi5/five30.gif",
+      "bytes": 719,
+      "sha256": "335372c1c91161bc614e11220ddb01c76b0de174f0edc1f569ce6a3cff7e72fa"
+    },
+    {
+      "path": "public/themes/v1/hi5/five31.gif",
+      "bytes": 1289,
+      "sha256": "6aba0c41adaf7c90081c322ac696e325607ac732a0fe0ff7dbfc61884c7fce9a"
+    },
+    {
+      "path": "public/themes/v1/hi5/five4.gif",
+      "bytes": 758,
+      "sha256": "e41ecf60f37957bc19606403f8e5daef0e898592b69a25dfd53da1bcaac9ad8c"
+    },
+    {
+      "path": "public/themes/v1/hi5/five5.gif",
+      "bytes": 715,
+      "sha256": "6341abfd7ac8d244270a67e1a503154d17ff742aa9d9f4638ee9f62695fa9d4e"
+    },
+    {
+      "path": "public/themes/v1/hi5/five6.gif",
+      "bytes": 748,
+      "sha256": "1f58edafa0e6cbc940af28788d08cfd72237a371c8baa30a2a0984228dd9360c"
+    },
+    {
+      "path": "public/themes/v1/hi5/five7.gif",
+      "bytes": 680,
+      "sha256": "eaef722ef114cc5be4b5d70ec2c2ea8064ceab0fe2a11c7481ce1cefec984d4e"
+    },
+    {
+      "path": "public/themes/v1/hi5/five8.gif",
+      "bytes": 737,
+      "sha256": "83a61b0b5db797006dd9e6c909a6c7fbdae5edaef0f3489a45c18ce923062551"
+    },
+    {
+      "path": "public/themes/v1/hi5/five9.gif",
+      "bytes": 664,
+      "sha256": "f378e13a5a5a46e71610d3941f9961964707e5a3f64b548c4e022f4cdceb895f"
+    },
+    {
+      "path": "public/themes/v1/hi5/hdr_glb.gif",
+      "bytes": 726,
+      "sha256": "f408cf12b59280a5fb620850a004e9290e53857f0b4eb68c1b4b2df09f6d57ff"
+    },
+    {
+      "path": "public/themes/v1/hi5/hdr_logo.gif",
+      "bytes": 643,
+      "sha256": "2705dc264f27f226bf7ef9aaf93752e516e5247e8e251cc46444f3e1ab76aaa5"
+    },
+    {
+      "path": "public/themes/v1/hi5/header-mobile-icon.gif",
+      "bytes": 1284,
+      "sha256": "a1854f906c5e36e612cba5d639c531b20c41a4c7e89d5edab513522589cb2d1b"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_camera.gif",
+      "bytes": 82,
+      "sha256": "f67caf00a331269d5038f208d5d870a71a09c31d0a8e1183ec4c1d1e0413e02a"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_comment.gif",
+      "bytes": 82,
+      "sha256": "2ff4ede590411b82e6408436f7db5d0c7443c08b437747388a910bd73bc666c8"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_five.gif",
+      "bytes": 201,
+      "sha256": "d281ce8e387e4ace9e645229467a49f39a093fd722f605425a6576ca2f2bd884"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_graybar.gif",
+      "bytes": 144,
+      "sha256": "6796ccf39a9f18edf8f55012834dfc67ee15ad06e9088c73439409e51375a1aa"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_orangebar.gif",
+      "bytes": 323,
+      "sha256": "7e31f996cf70adbaf201873ba3041d25a8b8bb2908d86813ce9b519daa43536f"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_person.gif",
+      "bytes": 73,
+      "sha256": "01a3eb23b90f2b2dc2261f96f9c8ccfa3c5fe2f98b9038e47010f9d43bf13795"
+    },
+    {
+      "path": "public/themes/v1/hi5/profile_scrapbook.gif",
+      "bytes": 86,
+      "sha256": "d1c0d43079dae4fa4b2287198773980549c120d207d8866a9bd2a2bf4c74cac8"
+    },
+    {
+      "path": "public/themes/v1/hi5/smallCoin.png",
+      "bytes": 1099,
+      "sha256": "dc779910241b67064e6b05bb235d9592e8a6a022076623d1d0b3f71ce3f2e0aa"
+    },
+    {
+      "path": "public/themes/v1/media/README.txt",
+      "bytes": 952,
+      "sha256": "7445035eff670d67b19e3cfe44cc04f3adfddba3f80b97221d4fb6fc9b3facc8"
+    },
+    {
+      "path": "public/themes/v1/media/after-the-last-bus.mp3",
+      "bytes": 307788,
+      "sha256": "c28ba3c644bf511347de4d3e02f124f07e2b2b80c38f4fb0e7cae21cb51131ef"
+    },
+    {
+      "path": "public/themes/v1/media/dial-up-hearts.mp3",
+      "bytes": 541283,
+      "sha256": "7cd5df0a99cc23ac85e3830529c5e6251ffa773c2b71a23b09a8f1ed9588cb3f"
+    },
+    {
+      "path": "public/themes/v1/myspace/addFavoritesIcon.gif",
+      "bytes": 831,
+      "sha256": "488641c97554e5031685a9303ebfcb96c2460f103abe87500f1492650d2f5026"
+    },
+    {
+      "path": "public/themes/v1/myspace/addFriendIcon.gif",
+      "bytes": 884,
+      "sha256": "ef7349e00c1374dcaf7b63fe3fdf4b0a60d438df22ca799a25af07c324d9b963"
+    },
+    {
+      "path": "public/themes/v1/myspace/blockuser.gif",
+      "bytes": 573,
+      "sha256": "467f09d9708d203e195777f8ed0906172cea19293bd60d7ced1e21f4003c90a8"
+    },
+    {
+      "path": "public/themes/v1/myspace/defaultskin.swf",
+      "bytes": 2034,
+      "sha256": "83b59e0d3cabf8c573a6392edad0b1a0e0c436947b63aaf3b96fc7e1a9a6db99"
+    },
+    {
+      "path": "public/themes/v1/myspace/demo-tone.mp3",
+      "bytes": 4510,
+      "sha256": "c220d5d7750d158a7734c17206d607d04f5c36659705bb1a7d292e0370d20918"
+    },
+    {
+      "path": "public/themes/v1/myspace/forwardMailIcon.gif",
+      "bytes": 818,
+      "sha256": "212eb97f9f46eff74c47d5c63088e8c1b88e9200f5c786bf7c79588539533be4"
+    },
+    {
+      "path": "public/themes/v1/myspace/icon_add_to_group.gif",
+      "bytes": 381,
+      "sha256": "0f36e9f5832bd300c6328ff42e64c18ef76016039ea64cb49effe74524d21890"
+    },
+    {
+      "path": "public/themes/v1/myspace/icon_rank_user4.gif",
+      "bytes": 582,
+      "sha256": "502e380dbab599612a951dcaad739a8c69f95bc6f041f039c3fd32dbb749527c"
+    },
+    {
+      "path": "public/themes/v1/myspace/logo.svg",
+      "bytes": 21605,
+      "sha256": "ed76397746776be85115ba8ac20c2ba43766500f1c78a0f1fa9b4d6e00ae396d"
+    },
+    {
+      "path": "public/themes/v1/myspace/messagefriend.gif",
+      "bytes": 1452,
+      "sha256": "6d3c5fdf88300aaaf6a07a8f025998b4199320ef877c2d18ec8949f857077892"
+    },
+    {
+      "path": "public/themes/v1/myspace/mini.swf",
+      "bytes": 26449,
+      "sha256": "a2df3de984c17a100ecc88e8bc0fe5f076c2a67377cf90e912202192f720b9c6"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/README.txt",
+      "bytes": 494,
+      "sha256": "7efe7c15fbf6cfe938f1af245d89db006bce89bc3a7add84d7f0b6e7a2f58163"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/angry.gif",
+      "bytes": 1110,
+      "sha256": "b74948110b61210d53345a4d169e2a5d48818131fda8f8161e9d2aeb298cb8a7"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/busy.gif",
+      "bytes": 1110,
+      "sha256": "2d3dbf3117afd8d8040dd12faeb01305f4d976a3bd6a348f5768a7084acad6cc"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/chill.gif",
+      "bytes": 1110,
+      "sha256": "5b0b7c378e4b9d334be66e1e8f877b206de7ecfd4ec2f99be21e367ebaa3b84a"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/excited.gif",
+      "bytes": 1110,
+      "sha256": "dda143da97e1c9888a05c3f097eccd91dfefb43e697f31db252a2649aced8f6a"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/happy.gif",
+      "bytes": 1110,
+      "sha256": "3fb0ee601a8619b76edbf9f513468fff00a43c07bd9811f4f772707c3783dd9f"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/loved.gif",
+      "bytes": 1110,
+      "sha256": "ba11f2ac332e995968dbf3aae7ef709f6750c84329cfea2d3c650d877036fd24"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/nostalgic.gif",
+      "bytes": 1110,
+      "sha256": "bc41421ab7cf06cc7bde678962f90ed49c51bf28bcaa1784e1d96e795a8f79ee"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/sad.gif",
+      "bytes": 1110,
+      "sha256": "d03a2a7cce0a6ac88de7d5ceac96f822afaff6b74234c79f188a671738f0caa0"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/silly.gif",
+      "bytes": 1110,
+      "sha256": "c82f91b3bda653e40b43217f472c0ff912d9cbd49772fe52fefa8dd766093cab"
+    },
+    {
+      "path": "public/themes/v1/myspace/moods/sleepy.gif",
+      "bytes": 1110,
+      "sha256": "e9d224624730cd41cb85ed6ae23e1f5ef25923dccfd83cb948206e50cd379bb6"
+    },
+    {
+      "path": "public/themes/v1/myspace/onlinenow.gif",
+      "bytes": 579,
+      "sha256": "fd91bf29879fdba3e3403d4d527fd5bf95b6da92c2add249581a94a85812548a"
+    },
+    {
+      "path": "public/themes/v1/myspace/sendMailIcon.gif",
+      "bytes": 755,
+      "sha256": "102eea757e1ee2efd88dc619f15356f4fd58285f4db34035e3fd0bf91cdbb2dd"
+    },
+    {
+      "path": "public/themes/v1/profiles.css",
+      "bytes": 102513,
+      "sha256": "b2eb6ae084820fcf2ae09d0a558f726408ef1d3bb23571a2de199eed3fe70357"
+    },
+    {
+      "path": "public/themes/v1/qzone/space-banner.svg",
+      "bytes": 21506,
+      "sha256": "658ccc589d54932b7f8cd3e7249ddcc41bff0b3eda9d3056a94373713a801757"
+    }
+  ]
+}
